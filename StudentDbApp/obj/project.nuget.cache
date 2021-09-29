@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QLV4L96POqJW4kHa60N2dhFu8v+yiN/AMlmO7H5GCmZ299U/+oGMH3MpYi1cMb7kbYEck+Leh1W+ASoRIFWcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aakash_Kandhari\\source\\repos\\StudentDbApp\\StudentDbApp\\StudentDbApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

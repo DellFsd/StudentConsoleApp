@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aakash_Kandhari\\source\\repos\\StudentDbApp\\StudentDbApp\\StudentDbApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aakash_Kandhari\\source\\repos\\StudentDbApp\\StudentDbApp\\StudentDbApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aakash_Kandhari\\source\\repos\\StudentDbApp\\StudentDbApp\\StudentDbApp.csproj",
+        "projectName": "StudentDbApp",
+        "projectPath": "C:\\Users\\Aakash_Kandhari\\source\\repos\\StudentDbApp\\StudentDbApp\\StudentDbApp.csproj",
+        "packagesPath": "C:\\Users\\Aakash_Kandhari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aakash_Kandhari\\source\\repos\\StudentDbApp\\StudentDbApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aakash_Kandhari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/csb-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ConsoleTables": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
